@@ -1,6 +1,6 @@
 # Qube Social Network for Education
 
-Qube is a highly secure and user-friendly social networking platform powered by Laravel and React. Dedicated to the world of education, it serves as a comprehensive digital ecosystem, fostering a safe and interactive space for students, educators, and academic institutions to connect, collaborate, and exchange knowledge. With an emphasis on privacy, user experience, and educational enhancement, Qube is designed to empower individuals and organizations within the education sector.
+Qube is a highly secure and user-friendly social networking platform powered by PHP. Dedicated to the world of education, it serves as a comprehensive digital ecosystem, fostering a safe and interactive space for students, educators, and academic institutions to connect, collaborate, and exchange knowledge. With an emphasis on privacy, user experience, and educational enhancement, Qube is designed to empower individuals and organizations within the education sector.
 
 ## Key Features
 
